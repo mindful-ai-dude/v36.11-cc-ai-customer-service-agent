@@ -1,10 +1,10 @@
 # AI Customer Support Agent with Dual-Database RAG System
 
-This project implements an AI customer support agent using Claude 3 Haiku, enhanced with a robust dual-database RAG (Retrieval-Augmented Generation) system. The RAG system uses Supabase (with pgvector) as the primary vector database and SQLite as a fallback, ensuring high availability and reliability.
+This project implements an AI customer support agent using Claude 3.5 Sonnet and Claude 3.5 Haiku, enhanced with a robust dual-database RAG (Retrieval-Augmented Generation) system. The RAG system uses Supabase (with pgvector) as the primary vector database and SQLite as a fallback, ensuring high availability and reliability.
 
 ## Features
 
-- 🤖 Claude 3 Haiku-powered conversational AI
+- 🤖 Claude 3.5 Sonnet and Claude 3.5 Haiku-powered conversational AI
 - 📚 Dual-database RAG system with configurable fallback
 - 🔄 Toggle between Supabase and SQLite-only modes
 - 🔍 Vector similarity search using OpenAI's text-embedding-3-small model
