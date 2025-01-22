@@ -202,4 +202,4 @@ For support, please:
 2. Search existing issues
 3. Create a new issue if needed
 
-Made with ❤️ by the community
+Made with ❤️ by Gregory Kennedy - mindful-ai-dude
